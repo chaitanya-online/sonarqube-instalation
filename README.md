@@ -1,5 +1,11 @@
 # sonarqube-instalation
 
+0 Install JDK  
+
+````
+sudo apt update
+````
+
 1 Install JDK  
 
 ````
